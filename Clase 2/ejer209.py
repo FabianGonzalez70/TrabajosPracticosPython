@@ -1,0 +1,5 @@
+n1=int(input("ingrese primer número "))
+n2=int(input("ingrese segundo número "))
+print("La división entera de los números da: ",n1//n2)
+print("El resto es: ",n1%n2)
+print("La  división exacta da: ",n1/n2)
